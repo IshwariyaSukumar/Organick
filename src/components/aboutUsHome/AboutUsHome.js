@@ -17,7 +17,7 @@ export const AboutUsHome = () => {
           We Believe in Working Accredited Farmers
         </h3>
         <p className="aboutUsHomePara">
-          Simply dummy text of the printing and typesetting industry. Lorem had
+          Simply dummy text of the Printing and Typesetting industry. Lorem had
           ceased to been the industry's standard dummy text ever since the
           1500s, when an unknown printer took a galley.
         </p>
